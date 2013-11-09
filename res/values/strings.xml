@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">dmitry.s</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Pls, make your choose</string>
+    <string name="radio">Radiogroup</string>
+    <string name="spin">Spinner</string>
+    <string name="back">Назад</string>
+    <string name="fir_radio">1</string>
+    <string name="sec_radio">2</string>
+    <string name="desc">Картинка</string>
+
+</resources>
