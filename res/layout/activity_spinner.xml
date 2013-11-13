@@ -23,9 +23,10 @@
                 android:layout_height="wrap_content"
                 android:text="@string/back"/>
         <Spinner
-                android:layout_width="fill_parent"
+                android:id="@+id/spScaleType"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/spinner"/>
+                />
 
 
     </LinearLayout>
